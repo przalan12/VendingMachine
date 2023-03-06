@@ -1,0 +1,8 @@
+Coca-Cola: (Drink):2
+Coca-Cola: (Drink):3
+Coca-Cola: (Drink):1
+Chips: (Snack):5
+Diet-Pepper: (Drink):3
+Pepsi: (Drink):5
+Candy: (Snack):6
+Honda: (Truck):8
